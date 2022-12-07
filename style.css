@@ -3,4 +3,7 @@ div {
     max-width: 200px;
     height: 100vw;
     border: 1px solid black;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: roboto;
 }
